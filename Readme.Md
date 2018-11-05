@@ -1,5 +1,7 @@
 <a href="http://analyticsbot.tk/wp-content/uploads/2018/11/download.png"><img class="alignnone size-full wp-image-1133" src="http://analyticsbot.tk/wp-content/uploads/2018/11/download.png" alt="" width="160" height="160" /></a>
 
+[This is also available at <a href="http://analyticsbot.tk/2018/11/brief-tutorial-on-git-and-version-control-system/"> my blog</a>
+
 In my <a href="http://analyticsbot.tk/2018/10/add-ssh-keys-to-github-bitbucket-on-windows/">last post</a>, I talked about how to setup SSH keys for github/ bitbucket. In this post, I will talk about some commonly used git commands, but first let's talk about the git workflow for a file.
 
 <a href="http://analyticsbot.tk/wp-content/uploads/2018/11/git-flow.png"><img class="size-medium wp-image-1134 aligncenter" src="http://analyticsbot.tk/wp-content/uploads/2018/11/git-flow-300x57.png" alt="" width="300" height="57" /></a>
